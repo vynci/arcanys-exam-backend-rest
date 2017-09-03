@@ -1,0 +1,20 @@
+1. Admin
+	- OfficeAddress 
+		- Create
+		- Read
+		- Update 
+		- Delete
+	- SocialMedia (FB, Twitter, IG)
+		- Update
+	- Inquiries
+		- Read
+2. Visitor
+	- OfficeAddress
+		- Read
+	- Inquiries
+		- Create
+
+
+- HTTP REST API
+- WebSockets
+
